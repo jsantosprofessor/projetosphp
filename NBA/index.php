@@ -187,7 +187,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_newsletter'])) 
                 <div class="flex justify-between items-center h-20">
                     <!-- Logótipo -->
                     <div class="flex-shrink-0 flex items-center gap-3 cursor-pointer" onclick="window.scrollTo(0,0)">
-                        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a9/NBA_logo.svg/1200px-NBA_logo.svg.png" alt="NBA Logo" class="h-12 w-auto">
+                        <img src="https://static.vecteezy.com/system/resources/thumbnails/048/804/614/small/elite-basketball-mascot-png.png" alt="NBA Logo" class="h-12 w-auto">
                         <span class="font-heading font-bold text-2xl tracking-wider uppercase border-l-2 border-nba-gray pl-3">Playoff <span class="text-nba-red">Zone</span></span>
                     </div>
 
